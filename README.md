@@ -5,7 +5,7 @@
   <h1 align="center">🔒 ownersv2-obfuscator</h1>
   <p align="center">A lightweight npm package to obfuscate HTML with anti-debug protection 🚀</p>
   <p align="center">
-    <a href="https://www.npmjs.com/package/ownersv2_obfuscator"><img src="https://img.shields.io/npm/v/obfuscate-html.svg?style=flat-square" alt="npm version"></a>
+    <a href="https://www.npmjs.com/package/ownersv2-obfuscator"><img src="https://img.shields.io/npm/v/obfuscate-html.svg?style=flat-square" alt="npm version"></a>
     <a href="https://github.com/haji-mix/ownersv2-obfuscator/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/obfuscate-html.svg?style=flat-square" alt="License"></a>
     <a href="https://github.com/haji-mix/ownersv2-obfuscator"><img src="https://img.shields.io/github/stars/haji-mix/obfuscate-html?style=flat-square" alt="GitHub Stars"></a>
   </p>

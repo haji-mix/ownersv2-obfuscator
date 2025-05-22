@@ -1,6 +1,6 @@
 {
     "name": "ownersv2-obfuscator",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "A simple HTML obfuscation library with anti-debug protection",
     "main": "./src/index.js",
     "types": "./types/index.d.ts",
