@@ -1,6 +1,6 @@
 {
     "name": "ownersv2-obfuscator",
-    "version": "1.0.6",
+    "version": "1.0.8",
     "description": "A simple HTML obfuscation library with anti-debug protection",
     "main": "./src/index.js",
     "types": "./types/index.d.ts",
@@ -10,6 +10,13 @@
     "keywords": ["obfuscation", "html", "security", "express"],
     "author": "Kenneth Panio",
     "license": "MIT",
+    "dependencies": {
+      "os": "^0.1.2",
+      "crypto": "^1.0.1",
+      "winston": "^3.17.0",
+      "events": "^3.3.0",
+      "axios": "^1.9.0"
+    },
     "repository": {
       "type": "git",
       "url": "https://github.com/haji-mix/ownersv2-obfuscator.git"
